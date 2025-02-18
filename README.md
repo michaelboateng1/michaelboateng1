@@ -17,7 +17,9 @@ I’m a self-motivated developer, problem solver, and tech enthusiast on a missi
 
 ### Socials
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/michael-boateng-7003a025b/)
+
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/x2K9SvJJ)
+
 [![Twitter | X](https://skillicons.dev/icons?i=twitter)](https://x.com/millyXcode)
 
 <hr/>
