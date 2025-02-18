@@ -10,15 +10,15 @@ I’m a self-motivated developer, problem solver, and tech enthusiast on a missi
 * **👯‍♂️ Collaborating:** New to the open source community and actively searching for projects to contribute.
 * **💬 Ask me about:** Software Development, Web Development, Open-Source contributions, anything about Science and Physics.
 * **🤔 Looking for:** Resources on advanced algorithms, ML and Data Science and emerging Web3 technologies.
-<!-- TODO: Add the linkedIn link later and other links -->
-* **📬 Reach me on:** [Twitter | X](https://x.com/@millyxcode) | [LinkedIn](https://linkedin.com/) 
 
 ### Tech Stack
-<!-- TODO: Generate The icons later -->
-* **Languages:** HTML, JavaScript, Python, TypeScript, Node.js
-* **Frameworks & Libraries:** Tailwind, Bootstrap, SCSS
-* **Dev Tools:** Git, Postman, VS code, Linux (Ubuntu)
-* **Cloud Services:** Vercel, Netlify, MDB, GitHub Pages
+
+[![Languages](https://skillicons.dev/icons?i=js,html,css,python,typescript,nodejs,tailwind,bootstrap,scss,git,postman,vscode,ubuntu,vercel,netlify,github&perline=6)](https://skillicons.dev)
+
+### Socials
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://)
 
 <hr/>
 
