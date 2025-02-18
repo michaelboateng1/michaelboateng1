@@ -13,7 +13,7 @@ I’m a self-motivated developer, problem solver, and tech enthusiast on a missi
 
 ### Tech Stack
 
-[![Languages](https://skillicons.dev/icons?i=js,html,css,python,typescript,nodejs,tailwind,bootstrap,scss,git,postman,vscode,ubuntu,vercel,netlify,github&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,html,css,python,typescript,nodejs,tailwind,bootstrap,scss,git,npm,yarn,postman,vscode,ubuntu,vercel,netlify,github&perline=6)](https://skillicons.dev)
 
 ### Socials
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://)
@@ -23,12 +23,23 @@ I’m a self-motivated developer, problem solver, and tech enthusiast on a missi
 <hr/>
 
 ### GitHub Stats
-<!-- TODO: Generate the stats image and insert it here -->
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelboateng1&show_icons=true&theme=tokyonight)](https://github.com/michaelboateng1/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelboateng1&layout=donut)](https://github.com/michaelboateng1/github-readme-stats)
 
 ### Profile Insights
-<!-- TODO: Generate The profile views and insert it here -->
+
+[![wakatime](https://wakatime.com/badge/user/6eb4584d-f297-4876-b3b1-31ef77c483bf.svg?)](https://wakatime.com/@6eb4584d-f297-4876-b3b1-31ef77c483bf)
+
+![Profile views](https://komarev.com/ghpvc/?username=michaelboateng1)
+
 
 <!-- TODO: and add some svg image and the dev quots -->
+### Dev Quotes
+![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 
 I’m always open to connecting with like-minded individuals, collaborating on projects, and sharing knowledge. **Let’s build the future together!** 🚀 
+
+![Get in touch](https://octodex.github.com/images/daftpunktocat-thomas.gif)
