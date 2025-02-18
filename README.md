@@ -16,9 +16,9 @@ I’m a self-motivated developer, problem solver, and tech enthusiast on a missi
 [![Languages](https://skillicons.dev/icons?i=js,html,css,python,typescript,nodejs,tailwind,bootstrap,scss,git,npm,yarn,postman,vscode,ubuntu,vercel,netlify,github&perline=6)](https://skillicons.dev)
 
 ### Socials
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://)
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://)
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/michael-boateng-7003a025b/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/x2K9SvJJ)
+[![Twitter | X](https://skillicons.dev/icons?i=twitter)](https://x.com/millyXcode)
 
 <hr/>
 
