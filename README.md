@@ -11,9 +11,9 @@ I’m a self-motivated developer, problem solver, and tech enthusiast on a missi
 - **💬 Ask me about:** Software Development, Web Development, Open-Source contributions, anything about Science and Physics.
 - **🤔 Looking for:** Resources on advanced algorithms, ML and Data Science and emerging Web3 technologies.
 
-### Tech Stack
+### Tools, Languages, and Frameworks
 
-[![Languages](https://skillicons.dev/icons?i=js,html,css,python,typescript,nodejs,tailwind,bootstrap,scss,git,npm,yarn,postman,vscode,ubuntu,vercel,netlify,github&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,html,css,python,flask,django,typescript,nodejs,cpp,golang,tailwind,bootstrap,scss,git,npm,yarn,postman,vscode,ubuntu,vercel,netlify,github&perline=6)](https://skillicons.dev)
 
 ### Socials
 
