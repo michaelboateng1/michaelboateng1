@@ -13,7 +13,7 @@ I’m a self-motivated developer, problem solver, and tech enthusiast on a missi
 
 ### Tools, Languages, and Frameworks
 
-[![Languages](https://skillicons.dev/icons?i=js,html,css,python,flask,django,typescript,nodejs,cpp,golang,tailwind,bootstrap,scss,git,npm,yarn,postman,vscode,ubuntu,vercel,netlify,github&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,html,css,react,nextjs,redux,python,flask,django,typescript,nodejs,cpp,golang,tailwind,bootstrap,scss,git,npm,yarn,postman,vscode,ubuntu,vercel,netlify,github&perline=6)](https://skillicons.dev)
 
 ### Socials
 
